@@ -1,4 +1,4 @@
-package kovalev.kafka.consumer.KafkaConsumerApp;
+package kovalev.kafka.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
